@@ -24,7 +24,7 @@ const Item = ({
     >
       <div className="item__text">
         <p>{title}</p>
-        <div className="item__text">
+        <div className="item__textDesc">
           <p>{desc}</p>
         </div>
       </div>
