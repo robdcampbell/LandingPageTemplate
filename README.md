@@ -1,3 +1,3 @@
 # React Homepage Boilerplate
 
-## Technologies used: React.js, React smooth scroll and snap.
+## Technologies used: React.js, Material UI, React smooth scroll and snap.
